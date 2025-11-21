@@ -23,6 +23,7 @@ FileBackupLogger/
 ├── config.json          # User preferences
 ├── backups/             # Folder where backups are saved
 ├── logs/                # Log files (backup.log)
+├── screenshots/         
 └── README.md            # This file
 ```
 
